@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Gulielmi et Mariæ, regnis &amp; reginæ Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, secundo. On the fourteenth day of April, Anno Dom. 1690. In the second year of their Majesties reign, this act passed the royal assent.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02950</idno>
+            <idno type="STC">Wing E1108</idno>
+            <idno type="STC">ESTC R208537</idno>
+            <idno type="EEBO-CITATION">52614644</idno>
+            <idno type="OCLC">ocm 52614644</idno>
+            <idno type="VID">175857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175857)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2752:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Gulielmi et Mariæ, regnis &amp; reginæ Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, secundo. On the fourteenth day of April, Anno Dom. 1690. In the second year of their Majesties reign, this act passed the royal assent.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrevv Anderson,</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-painted [sic] at Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1689-1694 : William and Mary) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175857:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:175857:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>Anno Regni GULIELMI ET MARIAE, REGIS &amp; REGINAE <hi>Angliae, Scotiae, Franciae &amp; Hiberniae,</hi> SECUNDO. On the Twentieth Day of <hi>May, Anno Dom.</hi> 1690. In the Second Year of Their Majeſties Reign, this ACT Paſſed the Royal Aſſent.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>Printed at <hi>London,</hi> and Re-painted at <hi>Edinburgh</hi> by the Heir of <hi>Andrevv Anderſon, Anno Dom.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175857:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb n="3" facs="tcp:175857:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>Anno Secundo <hi>GVLIELMI</hi> &amp; <hi>MARIAE,</hi> An Act for the Exerciſe of the Government by Her Majeſty during His Majeſties Abſence.</head>
+            <p>WHereas by an Act of Parliament made in the firſt Year of Their Majeſties Reign, Intituled, <hi>An Act Declaring the Rights and Liber<g ref="char:EOLhyphen"/>ties of the Subject, and Settling the Succeſſion of the Crown,</hi> It is amongſt other things Enacted, Eſtabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh<g ref="char:EOLhyphen"/>ed and Declared, That the Crown and Regal Govern<g ref="char:EOLhyphen"/>ment of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, ſhall be and continue to Their ſaid Maj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties, and the Survivor of them during Their Lives, and the Life of the Survivor of them, and that the Entire, Perfect and Full Exerciſe of the Regal Power and Government, be only in, and Executed by His Majeſty, in the Names of both Their Majesties, du<g ref="char:EOLhyphen"/>ring Their joint Lives;</p>
+            <p>And whereas the King's moſt Excellent Majesty hath Reſolved to make a Royal Voyage, and go in Perſon in<g ref="char:EOLhyphen"/>to <hi>Ireland,</hi> for the Speedy and Effectual Reducing of that Kingdom to its due Obedience to Their Majeſties, and hath likewiſe Declared His Pleaſure, to have the Admi<g ref="char:EOLhyphen"/>niſtration of the Government in the Hands of the Queens moſt Excellent Majesty, during His abſence out of this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Be it Enacted by the King and Queens moſt Excellent Majesties, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, that whenſoever, and as often as it ſhall happen that His ſaid Majesty ſhall be abſent out of this Realm of <hi>England,</hi> It ſhall and may be Lawful for the Queens Ma<g ref="char:EOLhyphen"/>jeſty to Exerciſe and Adminiſter the Regal Power and Go<g ref="char:EOLhyphen"/>vernment of the Kingdom of <hi>England,</hi> Dominion of <hi>Wales</hi>
+               <pb n="4" facs="tcp:175857:3"/>
+               <!-- PDF PAGE 12 -->
+and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and the Plantations and Territories thereunto belonging, in the Names of both their Majeſties for ſuch time only, during Their joint Lives, as His ſaid Majeſty ſhall be Abſent, or continue out of this Realm of <hi>England;</hi> any thing in the ſaid Act to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+            <p>Provided always, That nothing in this Act ſhall be taken or conſtrued to Exclud or Debar His Majeſty during ſuch His Abſence out of this Realm, from the Exerciſe or Adminiſtration of any Act or Acts of Regal Power or Government within this Realm, the Kingdom of <hi>Ireland</hi> or any other Their Majeſties Dominions whatſover; But that all and every ſuch Act and Acts ſhall be as good and effectual, as if His Majeſty was within this Realm, and ſhall not be Contradicted or Controlled but by His Majeſty only; And neither the Paſſing of this Act nor His Maj<g ref="char:EOLhyphen"/>eſties Royal Voyage or Abſence out of this Realm, ſhall be any way taken or conſtrued to Diſſolve this preſent Parlia<g ref="char:EOLhyphen"/>ment, or Avoid or Determine any Commiſſion or Commiſſions, which have been or ſhall be Granted by His or their Ma<g ref="char:EOLhyphen"/>jesties; Nor to Avoid any other Act or Acts of Government, Executed by His Majesty.</p>
+            <p>Provided always, That as often as His Majeſtys, ſhall return into this Kingdom of <hi>England,</hi> the ſole Administer<g ref="char:EOLhyphen"/>ation of the Regal Power and Government thereof, and all the dominions, Territories and Plantations thereunto belonging or annexed, ſhall be in His Majeſty only, as if this Act had never been made.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
